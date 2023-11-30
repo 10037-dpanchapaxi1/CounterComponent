@@ -1,0 +1,40 @@
+/* Puedes personalizar el estilo según tus preferencias */
+counter-component {
+    display: block;
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  #counter-container {
+    border: 1px solid #ccc; /* Añade un borde para visualización */
+    padding: 20px; /* Añade relleno para mejorar la apariencia */
+  }
+
+  button {
+    font-size: 16px;
+    margin: 0 5px;
+  }
+  
+  body {
+    text-align: center; /* Alinea el texto al centro */
+  }
+  
+  h1 {
+    margin-top: 50px; /* Ajusta el margen superior según sea necesario */
+  }
+
+  #counter-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 50px auto;
+  }
+  
+  /* Estilo del componente de contador */
+  counter-component {
+    display: block;
+    text-align: center;
+  }
